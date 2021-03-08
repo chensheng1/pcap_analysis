@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\\345\255\246\344\271\240\350\265\204\346\226\231\\\344\273\243\347\240\201\\PCAP_analysis\\model\\model_bin.ckpt"
+all_model_checkpoint_paths: "D:\\\345\255\246\344\271\240\350\265\204\346\226\231\\\344\273\243\347\240\201\\PCAP_analysis\\model\\model_bin.ckpt"
